@@ -1,0 +1,191 @@
+.carré
+{
+    display: flex;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px
+}
+
+.boite1 a
+{
+  color: black;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.button1
+{
+    background-color:#4386F8;
+    color: white;
+    padding-left: 20px;
+    ont-size: 12px;
+    border-radius: 5px;
+    border-style: none;
+}
+.logo
+{
+    display: flex;
+    justify-content: center;
+}
+
+.logogoogle
+{
+width: 500px;
+height: auto;
+vertical-align: center;
+}
+
+.searchform
+{
+    display: flex;
+    justify-content: center;
+    border-radius: 40px;
+    padding-left: 30px;
+    padding-right: 28px;
+    padding-top: 11px;
+    border-radius: 8px;
+}
+
+.searchbar
+{
+  width: 600px;
+  border-style: solid;
+  border-radius:25px;
+  padding: 10px 15px 10px 5px;
+}
+
+.button2
+{
+    display: flex;
+    justify-content: center;
+}
+
+.button3
+{
+    background-color: #f2f2f2;
+    color: darkgrey;
+    padding: 10px;
+    padding-right: 17px;
+    padding-left: 17px;
+    font-size: 14px;
+    border-radius: 5px;
+    border-style: none;
+    margin: 10px;
+}
+
+.button4
+{
+    background-color: #f2f2f2;
+    color: darkgrey;
+    padding: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 14px;
+    border-radius: 5px;
+    border-style: none;
+    margin: 10px;
+}
+
+.boite1
+{
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px;
+    justify-content: flex-end;
+
+}
+
+.footer
+{
+display: flex;
+justify-content: space-between;
+}
+
+footer
+{
+position: absolute;
+bottom: 0;
+width: 100%;
+background-color: #F2F2F2;
+}
+
+.footerleft
+{
+    display: flex;
+    margin-left: 20px;
+    padding-right: 30px;
+}
+
+.footeright
+{
+    display: flex;
+    margin-right: 20px;
+}
+
+a
+{
+  color:grey;
+  text-decoration: none;
+  }
+
+.france
+{
+    margin-left: 20px;
+    color: grey;
+
+}
+
+.pub
+{
+padding-right: : 20px;
+color: grey;
+}
+
+.entreprise
+{
+  padding-left: 10px;
+  padding-right: 10px;
+  color: grey;
+}
+
+.propos
+{
+  padding-left: 10px;
+  padding-right: 10px;
+  color: grey;
+
+}
+
+.recherche
+{
+  padding-left: 10px;
+  color: grey;
+}
+
+.conso
+{
+  padding-right: : 10px;
+  color: grey;
+}
+
+.confidentialité
+{
+  padding-left: 10px;
+  padding-right: 10px;
+  color: grey;
+}
+
+.condition
+{
+  padding-left: 10px;
+  padding-right: 10px;
+  color: grey;
+}
+
+.parametre
+{
+  padding-left: 10px;
+  color: grey;
+}
